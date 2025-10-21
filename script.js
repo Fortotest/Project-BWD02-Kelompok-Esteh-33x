@@ -1,4 +1,3 @@
-// Navbar hide on scroll
 let lastScroll = 0;
 const navbar = document.getElementById("navbar");
 window.addEventListener("scroll", () => {
@@ -11,7 +10,6 @@ window.addEventListener("scroll", () => {
   lastScroll = currentScroll;
 });
 
-// Hamburger Menu Toggle
 const hamburger = document.getElementById("hamburger");
 const navLinks = document.getElementById("nav-links");
 
