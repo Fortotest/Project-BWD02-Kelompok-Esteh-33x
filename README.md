@@ -26,7 +26,7 @@ Semua bagian — dari produk sampai CTA — pakai Flexbox.
 Hasilnya: tampil rapi dan tetap *responsive* di semua device (desktop, tablet, dan mobile).
 
 💬 **Direct-to-Chat CTA (Fast Conversion)**  
-Semua tombol “Pesan Sekarang” dan “Chat via WhatsApp” langsung nyambung ke nomor bisnis Apsari (+62 856-2423-7125)  
+Semua tombol “Pesan Sekarang” dan “Chat via WhatsApp” langsung nyambung ke nomor bisnis Apsari
 Lengkap dengan pesan otomatis — tinggal kirim, gak pake ngetik lagi.
 
 🧁 **Simple but Elegant UI/UX**  
