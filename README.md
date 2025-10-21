@@ -3,8 +3,7 @@
 
 ### 🎯 Visi Proyek
 
-Proyek ini kami bangun buat bantu UMKM punya **etalase digital yang proper dan menjual**, bukan sekadar “tugas web HTML biasa”.  
-Kami pengin bikin website yang bukan cuma enak dilihat, tapi juga punya *conversion value* nyata — alias bisa langsung bantu jualan.
+Proyek ini kami bangun buat bantu UMKM punya **etalase digital yang proper dan menjual**, Website yang bukan cuma enak dilihat, tapi juga punya *conversion value* nyata — alias bisa langsung bantu jualan.
 
 Alih-alih bikin form ribet yang jarang diisi, kami pilih *approach* yang lebih relevan buat market lokal:  
 **tombol CTA langsung ke WhatsApp.**  
